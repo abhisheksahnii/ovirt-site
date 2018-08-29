@@ -21,7 +21,7 @@ This document will try to cover the various networking aspects and some basic us
 
 The first and foremost container of a network is the data center. The data center's networks are modelled under the data center (in the system tree and main tabs). In this scope, each network must have a unique name and a unique VLAN tag (if it's used).
 
-The availabke fields of a network entity represent the L2 properties that can be set on the network:
+The available fields of a network entity represent the L2 properties that can be set on the network:
 
 *   Name
     -   Used to identify the network (propogates to the hosts)
